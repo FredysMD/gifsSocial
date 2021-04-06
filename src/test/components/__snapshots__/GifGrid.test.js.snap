@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test to GifGrid component should have GifGrid component 1`] = `
+<Fragment>
+  <h2>
+    Messi
+  </h2>
+  <p
+    className="animate__animated animate__fadeIn"
+  >
+    Loading...
+  </p>
+  <ol />
+</Fragment>
+`;
+
+exports[`Test to GifGrid component should show item when loading images  1`] = `
+<Fragment>
+  <h2>
+    Messi
+  </h2>
+  <ol>
+    <GifItem
+      id="Fredys"
+      key="Fredys"
+      title="Fredys CEO"
+      url="https://fredys.com"
+    />
+  </ol>
+</Fragment>
+`;

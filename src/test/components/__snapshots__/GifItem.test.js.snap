@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test to GifItem Component should have a component GifItem 1`] = `
+<div
+  className="card-size"
+>
+  <div
+    className="card animate__slideInDown"
+  >
+    <img
+      alt="Title test"
+      className="card-img-top"
+      src="https://urlTest.com"
+    />
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        Title test
+      </h5>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test to GifApp component should create snapShot 1`] = `
+<div
+  className="container"
+>
+  <h2>
+    GifSocial
+  </h2>
+  <AddCategory
+    setCategories={[Function]}
+  />
+  <hr />
+  <ol>
+    <GifGrid
+      category=""
+      key=""
+    />
+  </ol>
+</div>
+`;
